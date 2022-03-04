@@ -1,6 +1,6 @@
 - Hi, I’m @bremxx
 
-- I’m interested in web development.
+- I’m interested in web development. 
 
 - I'm learning via online courses and on my own. At this point my beginner's stack is:
     * Adaptive markup,
@@ -13,9 +13,11 @@
     * express,
     * postgreSQL.
 
-- I’m looking to start my career.
+- I’m looking to start my career. 
 
-- How to reach me: petr.kirienko@gmail.com
+- How to reach me: 
+     * telegram: @bremxx
+     * email: petr.kirienko@gmail.com
 
 <!---
 bremxx/bremxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
