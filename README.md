@@ -2,13 +2,16 @@
 
 - I’m interested in web development.
 
-- I'm learning frontend via online courses. At this point my beginner's stack is:
+- I'm learning via online courses and on my own. At this point my beginner's stack is:
     * Adaptive markup,
     * Sass | Less,
     * Gulp, Webpack,
-    * React + Redux
-
-  I’m currently learning node.js + postgres sql.
+    * OOP,
+    * vanilla JS,
+    * React + Redux,
+    * nodejs,
+    * express,
+    * postgreSQL.
 
 - I’m looking to start my career.
 
