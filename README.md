@@ -9,6 +9,7 @@
     * OOP,
     * vanilla JS,
     * React + Redux,
+    * Vue + Vuex,
     * nodejs,
     * express,
     * postgreSQL.
